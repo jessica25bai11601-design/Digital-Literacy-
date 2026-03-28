@@ -3,15 +3,27 @@ Name: Jessica Kaur Chawla
 Registration Number: 25BAI11602
 
 Digital Literacy-
+
 Digital literacy is the ability to confidently and effectively use digital technologies such as computers, smartphones, and the internet. It includes a wide range of skills like accessing, understanding, evaluating, and creating information using digital tools. A digitally literate person can communicate through emails and social media, use online platforms like GitHub and LinkedIn, and work with digital content such as documents, presentations, and code.It also involves being aware of online safety, protecting personal data, and using technology in an ethical and responsible manner. Digital literacy is not just about technical skills, but also about critical thinking and the ability to adapt to new technologies. In today’s digital age, it is essential for education, career development, and daily life, as most professional and social interactions happen online.
 
 Task 1: Digital Literacy Awareness Infographic-
 
-This task focuses on creating awareness about digital literacy and its importance in today’s world. As a Student Digital Ambassador, I designed a one-page infographic to help students understand key concepts related to digital literacy. For this task, I used Canva to create a visually appealing and easy-to-understand infographic. The design covers important topics such as the meaning of digital literacy, useful digital tools for students, and safe internet practices. It highlights how digital skills are essential for effective communication, learning, and maintaining a professional online presence. The final infographic has been exported and added to the `task-1-presentation/` folder in this repository. Through this task, I learned how to present information in a clear and visual format. One interesting aspect was selecting and organizing the content in a way that is both informative and engaging. This activity also helped me understand the importance of digital awareness in academic and professional life.
+This task focuses on creating awareness about digital literacy and its importance in today’s world. As a Student Digital Ambassador, I designed a one-page infographic to help students understand key concepts related to digital literacy.
+For this task, I used Prezi to create a visually engaging and interactive infographic. The design covers important topics such as the meaning of digital literacy, useful digital tools for students, and safe internet practices. It highlights how digital skills are essential for effective communication, learning, and maintaining a professional online presence.
+The final infographic has been exported and added to the `task-1-presentation/` folder in this repository.
+Learning Outcome
+Through this task, I learned how to present information in a clear and visual format. It helped me improve my creativity and understand the importance of spreading digital awareness among students.
+
 
 Task 2: Build Your Student Digital Portfolio-
 
-This task focuses on building a professional digital presence by creating and updating profiles on important platforms used in academics and industry. A strong digital portfolio helps in showcasing skills, projects, and achievements. For this task, I created/updated my profiles on GitHub, LinkedIn, and one additional platform. On GitHub, I created a profile README repository that includes my name, branch, year, and my learning goals. On LinkedIn, I completed my Education section by adding my degree, institution, and expected graduation year. I also set up a profile on an additional platform to expand my digital presence. Screenshots of all the profiles have been captured and added to the `task-2-portfolio/` folder in this repository. Through this task, I understood the importance of maintaining a professional online identity. It helped me learn how these platforms can be used to showcase my skills, connect with professionals, and prepare for future academic and career opportunities.
+This task focuses on building a professional digital presence by creating and updating profiles on important platforms used in academics and industry.
+For this task, I used GitHub, LinkedIn, and Kaggle. GitHub was used to create and manage my coding profile, where I added a profile README including my personal and academic details along with my learning goals. LinkedIn was used to build a professional profile, where I updated my Education section with my degree, institution, and expected graduation year.
+Additionally, I created a profile on Kaggle, which is a platform for data science and machine learning. This helped me explore a new technical platform and understand its importance in developing analytical and problem-solving skills.
+Screenshots of all three profiles have been added to the `task-2-portfolio/` folder in this repository.
+Learning Outcome
+Through this task, I learned the importance of maintaining a professional online identity. These platforms will help me showcase my skills, connect with professionals, and grow academically and professionally over the next few years.
+
 
 Task 3: Explore Coding & Collaboration Platforms-
 
