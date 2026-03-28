@@ -27,14 +27,14 @@ Through this task, I learned the importance of maintaining a professional online
 
 Task 3: Explore Coding & Collaboration Platforms-
 
-This task focuses on exploring coding practice platforms and collaboration tools that are useful for students. It helps in developing problem-solving skills as well as understanding how to work collaboratively using digital tools.
+This task focuses on exploring coding practice platforms and collaboration tools that are useful for students.
 Part A – Coding Practice
-For coding practice, I created an account on HackerRank and completed a beginner-level challenge. This helped me understand basic problem-solving techniques and improve my coding skills. A screenshot of the completed challenge and score has been added to the `task-3-platforms/` folder.
+For coding practice, I used HackerRank, where I completed a beginner-level challenge (“Solve Me First”). This helped me understand basic programming concepts and improve my problem-solving skills. A screenshot of the completed challenge has been added to the `task-3-platforms/` folder.
 Part B – Google Workspace Collaboration
-For collaboration, I created a Google Form titled "Digital Literacy Awareness Quiz" with 5 questions, including both multiple-choice and short answer types. This form can be used to assess digital literacy among students.
-I have shared the form link in this repository, and screenshots of the form and its response sheet have been added to the `task-3-platforms/` folder.
-Learning Outcome
-Through this task, I learned how coding platforms help in improving logical thinking and programming skills. I also understood how tools like Google Forms can be used for data collection, quizzes, and collaboration. These tools will help me in academics by improving my technical skills and enabling better teamwork and communication.
+For collaboration, I used Google Forms to create a “Digital Literacy Awareness Quiz” consisting of 5 questions, including multiple-choice and short answer types. This form can be used to assess students’ understanding of digital literacy.
+I have added the Google Form link in this repository, and screenshots of the form and its response sheet have been saved in the `task-3-platforms/` folder.
+Learning Outcome:
+Through this task, I learned how platforms like HackerRank help in improving coding and logical thinking skills. I also understood how Google Forms can be used for creating quizzes, collecting responses, and supporting collaboration in academic work.
 
 Task 4: Draft a Professional Email & Etiquette Guide
 
