@@ -11,7 +11,7 @@ Task 1: Digital Literacy Awareness Infographic-
 This task focuses on creating awareness about digital literacy and its importance in today’s world. As a Student Digital Ambassador, I designed a one-page infographic to help students understand key concepts related to digital literacy.
 For this task, I used Prezi to create a visually engaging and interactive infographic. The design covers important topics such as the meaning of digital literacy, useful digital tools for students, and safe internet practices. It highlights how digital skills are essential for effective communication, learning, and maintaining a professional online presence.
 The final infographic has been exported and added to the `task-1-presentation/` folder in this repository.
-Learning Outcome
+Learning Outcome:
 Through this task, I learned how to present information in a clear and visual format. It helped me improve my creativity and understand the importance of spreading digital awareness among students.
 
 
@@ -21,7 +21,7 @@ This task focuses on building a professional digital presence by creating and up
 For this task, I used GitHub, LinkedIn, and Kaggle. GitHub was used to create and manage my coding profile, where I added a profile README including my personal and academic details along with my learning goals. LinkedIn was used to build a professional profile, where I updated my Education section with my degree, institution, and expected graduation year.
 Additionally, I created a profile on Kaggle, which is a platform for data science and machine learning. This helped me explore a new technical platform and understand its importance in developing analytical and problem-solving skills.
 Screenshots of all three profiles have been added to the `task-2-portfolio/` folder in this repository.
-Learning Outcome
+Learning Outcome:
 Through this task, I learned the importance of maintaining a professional online identity. These platforms will help me showcase my skills, connect with professionals, and grow academically and professionally over the next few years.
 
 
