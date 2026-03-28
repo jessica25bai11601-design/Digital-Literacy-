@@ -40,17 +40,12 @@ Through this task, I learned how platforms like HackerRank help in improving cod
 
 Task 4: Draft a Professional Email & Etiquette Guide
 
-This task focuses on understanding and applying professional email communication and responsible online behavior. As a Digital Ambassador, it is important to communicate clearly and professionally in academic and professional environments.
-Part A – Professional Emails
-I drafted two professional emails:
-1. An email to a professor requesting an extension for an assignment.
-2. An email to an internship coordinator expressing interest in a summer internship opportunity.
-Both emails follow proper email etiquette, including a clear subject line, formal greeting, structured body, and professional sign-off. These drafts have been saved in the `task-4-email-etiquette/` folder.
-Part B – Social Media Checklist
-I also created a "Do’s and Don’ts" checklist for responsible social media use. This includes guidelines for maintaining professionalism, protecting privacy, and using social platforms responsibly as a student.
-The checklist has been added as a separate file in the `task-4-email-etiquette/` folder.
-Learning Outcome
-Through this task, I learned the importance of professional communication in emails and online platforms. I also understood how proper etiquette and responsible social media behavior can help build a positive digital identity and avoid misunderstandings.
+One situation where poor digital communication caused a problem is when a student sent an email to a professor requesting an assignment extension, but the message was written in an informal tone and lacked a clear subject line. The email did not properly explain the reason for the request and appeared unprofessional. As a result, the professor either misunderstood the request or did not respond on time, which negatively affected the student’s submission.
+
+This situation highlights how improper digital communication can create confusion and leave a negative impression. It also shows that even small mistakes, such as unclear wording or lack of structure, can lead to bigger issues.
+
+To avoid this, the student should have used a clear subject line, formal and polite language, and a well-structured email explaining the situation clearly. Following proper email etiquette ensures effective communication and helps in building a professional image.
+
 
 Task 5: Cybercrime Awareness Case Study & Prevention Guide
 
