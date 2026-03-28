@@ -24,15 +24,17 @@ Screenshots of all three profiles have been added to the `task-2-portfolio/` fol
 Learning Outcome:
 Through this task, I learned the importance of maintaining a professional online identity. These platforms will help me showcase my skills, connect with professionals, and grow academically and professionally over the next few years.
 
-
-Task 3: Explore Coding & Collaboration Platforms-
+Task 3: Explore Coding & Collaboration Platforms
 
 This task focuses on exploring coding practice platforms and collaboration tools that are useful for students.
 Part A – Coding Practice
 For coding practice, I used HackerRank, where I completed a beginner-level challenge (“Solve Me First”). This helped me understand basic programming concepts and improve my problem-solving skills. A screenshot of the completed challenge has been added to the `task-3-platforms/` folder.
 Part B – Google Workspace Collaboration
 For collaboration, I used Google Forms to create a “Digital Literacy Awareness Quiz” consisting of 5 questions, including multiple-choice and short answer types. This form can be used to assess students’ understanding of digital literacy.
-I have added the Google Form link in this repository, and screenshots of the form and its response sheet have been saved in the `task-3-platforms/` folder.
+
+🔗 Google Form Link: https://forms.gle/nksYQ7ShqENEe1Vx5
+
+I have also added screenshots of the form and its response sheet in the `task-3-platforms/` folder.
 Learning Outcome:
 Through this task, I learned how platforms like HackerRank help in improving coding and logical thinking skills. I also understood how Google Forms can be used for creating quizzes, collecting responses, and supporting collaboration in academic work.
 
