@@ -1,0 +1,7 @@
+Cybercrime Case Study: UPI/Online Payment Fraud
+
+UPI/Online Payment Fraud is a widely occurring cybercrime in which attackers deceive users into revealing sensitive financial information or authorizing fraudulent transactions. With the rapid growth of digital payment systems, such scams have become increasingly common, especially among students and new users.
+A typical case starts when the victim receives a phone call, SMS, or message on social media from someone pretending to be a bank official, customer care executive, or a trusted service provider. The attacker creates a sense of urgency by claiming there is an issue with the victim’s account or offering a reward or cashback.
+The victim is then asked to click on a malicious link, download an unknown application, or share confidential details such as OTP or UPI PIN. In some cases, the attacker sends a “collect request” on a UPI app and convinces the victim that approving it will result in receiving money. Once the victim follows these instructions, the attacker gains access to their account and transfers money without permission.
+This type of fraud mainly targets students, elderly individuals, and people who are not fully aware of digital security practices. The consequences include financial loss, emotional stress, and reduced trust in online payment systems.
+This case study highlights the importance of awareness, caution, and responsible use of digital platforms to prevent such cybercrimes.
